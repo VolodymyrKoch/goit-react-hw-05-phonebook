@@ -1,0 +1,28 @@
+.tilie {
+  color: #0e0303;
+}
+.contactFormConteiner {
+  width: 300px;
+  margin: 0 auto;
+}
+.lableName {
+  color: rgb(12, 10, 11);
+  margin-top: 10px;
+}
+.contactForm button {
+  margin-top: 10px;
+}
+
+.lableName label {
+  margin-right: 5px;
+}
+
+.contactForm {
+  color: rgb(202, 191, 32);
+  font-weight: inherit;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}

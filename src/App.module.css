@@ -1,0 +1,9 @@
+.conteiner {
+  text-align: center;
+  background-color: rgb(235, 227, 227);
+  width: 350px;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  min-height: 400px;
+}
